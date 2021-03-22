@@ -1,2 +1,2 @@
 # MOOC
-Ohjelmoinnin MOOC 2020
+Ohjelmoinnin MOOC 2020 (JAVA)
